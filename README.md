@@ -15,22 +15,27 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Olá, eu me chamo Renato Silva <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+## Olá, eu me chamo Renato Silva <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-Software Engineer atualmente trabalhando na [**Escale**](https://escale.com.br/).
+Com uma trajetória de mais de 2 anos de experiência como desenvolvedor web, dediquei-me à especialização em ferramentas e tecnologias em volta do JavaScript. Sou apaixonado por temas escuros e atualmente, desempenho a função de Software Engineer na [**Escale Digital**](https://escale.com.br/).
 
-#### Principais ferramentas e tecnologias que utilizo:
+A seguir, apresento as principais ferramentas e tecnologias que fazem parte do meu cotidiano
 
-- 💻 Desenvolvimento web com React / Next.js
-- 📱 Desenvolvimento mobile com React Native
-- 📦 Desenvolvimento backend com Express / Nest.js / Fasfify
-- 🛠 TypeScript / JavaScript
-- 📥 Git / GitHub
-- 📟 Visual Studio Code
-- 🖌 Figma
-- 🧧 Entre outras!
+#### Desenvolvimento frontend 💻
+- TypeScript
+- React.js
+- Next.js
+- Prismic CMS
+- Storybook
 
-#### Como chegar até mim
+#### Desenvolvimento backend 📦
+- TypeScript
+- Express
+- Nest.js
+- Fasfify
+- Prisma
+
+### Interessado em conversar comigo?
 
 <p>
   <a href="https://www.linkedin.com/in/orenatodos">
